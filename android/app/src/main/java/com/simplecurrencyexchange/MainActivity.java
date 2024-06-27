@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "SimpleCurrencyExchange";
+    return "Swift Currency Converter";
   }
 
   @Override

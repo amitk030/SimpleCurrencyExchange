@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SimpleCurrencyExchange.app"
-               BlueprintName = "SimpleCurrencyExchange"
-               ReferencedContainer = "container:SimpleCurrencyExchange.xcodeproj">
+               BuildableName = "SwiftCurrencyConverter.app"
+               BlueprintName = "SwiftCurrencyConverter"
+               ReferencedContainer = "container:SwiftCurrencyConverter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SimpleCurrencyExchangeTests.xctest"
-               BlueprintName = "SimpleCurrencyExchangeTests"
-               ReferencedContainer = "container:SimpleCurrencyExchange.xcodeproj">
+               BuildableName = "SwiftCurrencyConverterTests.xctest"
+               BlueprintName = "SwiftCurrencyConverterTests"
+               ReferencedContainer = "container:SwiftCurrencyConverter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SimpleCurrencyExchange.app"
-            BlueprintName = "SimpleCurrencyExchange"
-            ReferencedContainer = "container:SimpleCurrencyExchange.xcodeproj">
+            BuildableName = "SwiftCurrencyConverter.app"
+            BlueprintName = "SwiftCurrencyConverter"
+            ReferencedContainer = "container:SwiftCurrencyConverter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SimpleCurrencyExchange.app"
-            BlueprintName = "SimpleCurrencyExchange"
-            ReferencedContainer = "container:SimpleCurrencyExchange.xcodeproj">
+            BuildableName = "SwiftCurrencyConverter.app"
+            BlueprintName = "SwiftCurrencyConverter"
+            ReferencedContainer = "container:SwiftCurrencyConverter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

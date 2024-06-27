@@ -1,4 +1,5 @@
 import React from 'react';
+import {Dimensions} from 'react-native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {createDrawerNavigator} from '@react-navigation/drawer';
 import CustomDrawerContent from './components/CustomDrawerContent';
@@ -13,10 +14,13 @@ const DrawerRoutes = () => {
   return (
     <Drawer.Navigator
       initialRouteName="Home"
-      drawerContent={props => <CustomDrawerContent {...props}/>}
+      drawerContent={props => <CustomDrawerContent {...props} />}
       screenOptions={{
         drawerStyle: {backgroundColor: theme.backgroundColor},
-        headerStyle: {backgroundColor: theme.backgroundColor},
+        headerStyle: {
+          backgroundColor: theme.backgroundColor,
+          height: Dimensions.get('window').width / 7,
+        },
         headerTintColor: theme.textColor,
       }}>
       <Drawer.Screen

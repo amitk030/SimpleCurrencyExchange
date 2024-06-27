@@ -1,6 +1,6 @@
 import React from 'react';
 import {Picker} from '@react-native-picker/picker';
-import {StyleSheet, View} from 'react-native';
+import {StyleSheet} from 'react-native';
 import {themes} from '../utils';
 
 const theme = themes.defaultTheme;
@@ -47,7 +47,6 @@ const styles = StyleSheet.create({
     backgroundColor: 'orange',
     color: 'white',
     padding: 10,
-    fontSize: 18,
   },
 });
 

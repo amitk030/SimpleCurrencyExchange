@@ -27,10 +27,6 @@ const CustomDrawerContent = props => {
       linking:
         'mailto:am.kumar1293@gmail.com?subject=Suggestions for improvements',
     },
-    // {
-    //   icon: 'grid-outline',
-    //   text: 'Rate',
-    // }
   ];
 
   const onPress = item => {

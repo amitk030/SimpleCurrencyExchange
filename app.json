@@ -1,4 +1,7 @@
 {
-  "name": "SimpleCurrencyExchange",
-  "displayName": "SimpleCurrencyExchange"
+  "name": "Swift Currency Converter",
+  "displayName": "Swift Currency Converter",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6236542371071942~7768895604"
+  }
 }
